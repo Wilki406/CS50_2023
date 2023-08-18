@@ -1,4 +1,4 @@
-# CS50_2023_WEEK1
+# CS50_2023
 Harvard University's introduction to the intellectual enterprises of computer science and the art of programming, CS50.
 
 CS50, short for "Computer Science 50," is a renowned introductory computer science course offered by Harvard University. It is designed to provide students with a comprehensive and engaging foundation in computer science and programming concepts, regardless of their prior technical background. The course covers a wide range of topics, including algorithms, data structures, software development, web development, and more.
